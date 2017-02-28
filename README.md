@@ -1,5 +1,7 @@
 # gulp-pug-linter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ilyakam/gulp-pug-linter.svg)](https://greenkeeper.io/)
+
 Gulp plugin to lint Pug (nee Jade) files
 
 ## Status
