@@ -6,7 +6,7 @@
   "description": "Gulp plugin to lint Pug (nee Jade) files",
   "dependencies": {
     "gulp-util": "^3.0.7",
-    "pug-lint": "^2.2.2",
+    "pug-lint": "github:jlaamanen/pug-lint#bug/validate-attribute-separator-fix",
     "through2": "^2.0.1"
   },
   "devDependencies": {
